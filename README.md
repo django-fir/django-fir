@@ -90,4 +90,7 @@
 ## 🌐 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govardhan-reddy-55b52a1ba/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/django-fir)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gova9632/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gova9632/)
+[![Tableau](https://img.shields.io/badge/Tableau-0077B5?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/govardhan.s.n)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/govardhan_s_n/)
+
